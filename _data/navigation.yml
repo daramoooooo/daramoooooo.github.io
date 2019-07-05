@@ -1,0 +1,9 @@
+# main links
+
+main:
+  - title: "Youtube shots"
+    url: /year-archive/
+  - title: "tag"
+    url: /tags/
+  - title: "Category"
+    url: /categories/
