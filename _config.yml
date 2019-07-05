@@ -293,3 +293,14 @@ defaults:
       comments: # true
       share: true
       related: true
+
+gems:
+    - jekyll-paginate-v2
+
+pagination:
+    enabled: true
+    per_page: 2
+    limit: 0
+    sort_field: "date"
+    sort_reverse: true
+
